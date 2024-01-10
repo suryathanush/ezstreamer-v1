@@ -1,0 +1,28 @@
+Xsession: X session started for pi at Wed Sep 23 23:12:13 EDT 2020
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:1
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+Xsession: unable to start X session --- no "/home/pi/.xsession" file, no 
+"/home/pi/.Xsession" file, no session managers, no window managers, and no 
+terminal emulators found; aborting.
+Warning: locale not supported by C library, locale unchanged
+Warning: Cannot convert string "vlines2" to type Pixmap
+Xsession: X session started for pi at Wed Sep 23 23:16:51 EDT 2020
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:2
+X Error of failed request:  BadValue (integer parameter out of range for operation)
+  Major opcode of failed request:  109 (X_ChangeHosts)
+  Value in failed request:  0x5
+  Serial number of failed request:  6
+  Current serial number in output stream:  8
+localuser:pi being added to access control list
+Xsession: unable to start X session --- no "/home/pi/.xsession" file, no 
+"/home/pi/.Xsession" file, no session managers, no window managers, and no 
+terminal emulators found; aborting.
+Warning: locale not supported by C library, locale unchanged
+Warning: Cannot convert string "vlines2" to type Pixmap

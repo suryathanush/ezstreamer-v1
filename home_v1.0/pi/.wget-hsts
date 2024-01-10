@@ -1,0 +1,9 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+download.teamviewer.com	0	1	1600919332	31536000
+www.nasm.us	0	0	1633877864	7776000
+dl.teamviewer.com	0	1	1600919332	31536000
+bitbucket.org	0	1	1633878592	31536000
+github.com	0	1	1633887164	31536000
+codeload.github.com	0	0	1633887164	31536000
